@@ -1,3 +1,5 @@
+import clases.Algoritmos;
+
 public class Aplicacion {
     public static void main(String[] args) {
         //probando método esPar

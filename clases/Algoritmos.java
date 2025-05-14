@@ -1,3 +1,5 @@
+package clases;
+
 public class Algoritmos {
     //método para saber si un número es par
     public static boolean esPar(int numero) {
